@@ -30,3 +30,14 @@ Aplikasi ini cocok digunakan sebagai latihan pengembangan aplikasi mobile menggu
  ## Cara Menjalankan
  flutter pub get
  flutter run
+
+ ## Demo
+
+ 
+https://github.com/user-attachments/assets/036d8eac-0889-42d0-90c4-9cbb480cf6b7
+
+## Identitas 
+Raihan Dimas Fahriyanto
+XI RPL 1
+26
+
