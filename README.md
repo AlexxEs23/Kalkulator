@@ -1,16 +1,32 @@
-# flutter_application_1
+# Aplikasi Kalkulator Flutter
 
-A new Flutter project.
+## Deskripsi Aplikasi
 
-## Getting Started
+Aplikasi Kalkulator ini merupakan proyek Flutter sederhana yang dapat melakukan operasi dasar matematika seperti:
+- Penjumlahan (+)
+- Pengurangan (-)
+- Perkalian (×)
+- Pembagian (÷)
 
-This project is a starting point for a Flutter application.
+Selain fungsi utama kalkulasi, aplikasi ini juga memiliki:
+- **Halaman Riwayat**: Menyimpan dan menampilkan hasil perhitungan sebelumnya.
+- **Halaman Profil**: Menampilkan informasi singkat tentang pengguna.
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini cocok digunakan sebagai latihan pengembangan aplikasi mobile menggunakan Flutter, serta implementasi navigasi dan state management dasar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Software yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (versi terbaru disarankan)
+- Dart
+- Visual Studio Code / Android Studio
+- Android Emulator atau Perangkat Android
+
+## Cara Instalasi
+
+1. **Clone repositori ini ke lokal:**
+   ```bash
+ https://github.com/AlexxEs23/Kalkulator.git
+
+ ## Cara Menjalankan
+ flutter pub get
+ flutter run
